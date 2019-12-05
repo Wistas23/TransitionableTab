@@ -1,3 +1,8 @@
+This is modified repository of **Transitionable Tab** by ([Interactive-Studio](https://github.com/Interactive-Studio/TransitionableTab), [@gwangbeom](https://github.com/ParkGwangBeom))
+
+- Reduced repo size
+- Only Swift Package Manager support
+
 # TransitionableTab
 
 
